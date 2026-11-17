@@ -9,7 +9,7 @@ An end-to-end Business Intelligence project analyzing **99K+ orders** and **$15.
 * **Star Schema Architecture:** Modeled relational tables (`orders`, `order_items`, `order_products`, `sellers`, `order_payments`, `order_reviews`) connected to a dedicated `Calendar` dimension table.
 * **Advanced DAX Measures:** Built custom measures utilizing `CALCULATE`, `DISTINCTCOUNT`, and `CROSSFILTER(..., Both)` to accurately evaluate category-level CSAT scores (`Category Avg CSAT`)[cite: 2, 3] and seller performance metrics[cite: 4] without double-counting.
 
-![Data Model](images/Data Model.png)
+![Data Model](images/Data_Model.png)
 
 ---
 
