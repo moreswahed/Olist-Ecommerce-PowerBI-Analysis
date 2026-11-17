@@ -35,13 +35,13 @@ An end-to-end Business Intelligence project analyzing **99K+ orders** and **$15.
 ![Overview](images/Overview.png)
 
 ### 2. Products & Sales Analysis
-![Products & Sales](images/Products & Sales.png)
+![Products & Sales](images/Products&Sales.png)
 
 ### 3. Customer Reviews & CSAT
 ![Reviews](images/Reviews.png)
 
 ### 4. Sellers & Performance
-![Sellers Performance](images/Sellers & Preformance.png)
+![Sellers & Preformance](images/Sellers&Preformance.png)
 
 ### 5. Payments & Installments
 ![Payments](images/Payments.png)
